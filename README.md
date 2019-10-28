@@ -1,7 +1,8 @@
 # UMUSK
 Uniquely Malaysian United Special Komputasi
 
-Welcome.  
+Welcome!
+
 Both Excel spreadsheets are password-protected.
 
 The password is MoDB=PenolongKeJannah (case-sensitive)
