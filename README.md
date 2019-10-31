@@ -8,7 +8,7 @@ Both Excel spreadsheets are password-protected.
 The password is MoDB=PenolongKeJannah (case-sensitive).  The 2nd letter is the lowercase letter o.  
 
 The MoDB=PenolongKeJannah spreadsheet contains these worksheets:
-1. UMUSK
+1. UMUSK (Uniquely Malaysian United Special Komputasi)
 2. OIC Top 10 + 1
 3. Top 5 Malay States
 4. Max Waitlist
