@@ -21,7 +21,7 @@ The GoalSeek Optimal Msian Population spreadsheet focuses solely upon identifyin
 
 The user can change the duration of the Pilgrim Quota waitlist to view the resulting impact upon Malaysia's population composition between Muslims and Malaysians of Diverse Beliefs (MoDB)    
 
-Miscellaneous
+MISC
 
 Please run virus scans, etc on the downloaded spreadsheets.  
 
