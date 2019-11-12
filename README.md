@@ -13,7 +13,7 @@ The MoDB=PenolongKeJannah spreadsheet contains these worksheets:
 3. Top 5 Malay States
 4. Max Waitlist
 
-The GoalSeek Optimal Msian Population spreadsheet focuses solely upon identifying the optimal Msian population to result in a 65-year waitlist for the pilgrimage.  
+The GoalSeek Optimal Msian Population spreadsheet focuses solely upon identifying the optimal Msian population to result in a 65-year Pilgrim Quota waitlist for the pilgrimage.  The user can change the duration of the Pilgrim Quota waitlist to view the resulting impact upon Malaysia's population composition between Muslims and Malaysians of Diverse Beliefs (MoDB)    
 
 Please run virus scans, etc on the downloaded spreadsheets.  
 
